@@ -5,11 +5,6 @@
 * Authors:
 *    Derek Washburn, Govert Carreno, Abhishek Humagain, Josh Nestman
 *    Davi Neves, Robert Jones
-* Summary:
-*    This program prompts the user to enter two file paths.
-*    The paths are compared, taking special characters such as
-*    ".", "..", and "~" into account, and the program informs the
-*    user whether the two paths are homographs of each other.
 ************************************************************************/
 
 #include <iostream>
